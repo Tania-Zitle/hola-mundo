@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hla Mundo
+Mi primer repositorio.
 
 Autor: Tania Zitle
 Fecha: 08 de Febrero
