@@ -1,4 +1,4 @@
-# Hla Mundo
+# Hola Mundo
 Mi primer repositorio.
 
 Autor: Tania Zitle
